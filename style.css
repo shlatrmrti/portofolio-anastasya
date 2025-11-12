@@ -705,7 +705,7 @@ hr {
 
   .header {
     margin: 0 0.5rem;
-    font-size: 36px;
+    font-size: 24px;
     height: 8vh;
   }
 
@@ -722,16 +722,22 @@ hr {
     padding-right: 1rem;
   }
 
+  .hero {
+    height: 70vh;
+  }
+
   .hero h1 {
-    font-size: 4rem;
-    line-height: 5rem;
+    font-size: 3rem;
+    line-height: 4rem;
   }
 
   .hero-subtitle {
     position: absolute;
     text-align: center;
-    font-size: 6rem;
+    font-size: 5rem;
+    line-height: 5rem;
     right: 0rem;
+    top: 30rem;
   }
 
   .about {
@@ -764,8 +770,8 @@ hr {
     bottom: 25rem;
   }
   .bubble-text:nth-of-type(2) {
-    left: 15rem;
-    right: -5rem;
+    left: 12rem;
+    right: -2rem;
     bottom: 20rem;
   }
   .bubble-text:nth-of-type(3) {
@@ -773,17 +779,17 @@ hr {
     bottom: 15rem;
   }
   .bubble-text:nth-of-type(4) {
-    left: 12rem;
-    right: -5rem;
+    left: 8rem;
+    right: -2rem;
     bottom: 10rem;
   }
 
   .project {
-    margin-top: 15rem;
+    margin-top: 25rem;
   }
 
   .img-box {
-    height: 18rem;
+    height: 14rem;
   }
 
   .project-footer {
